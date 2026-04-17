@@ -9,7 +9,7 @@ Product Manager building AI experiments and product prototypes 🚀
 - learning in public
 
 ## Featured project ✨
-- [Portfolio](https://javier-llorente-portfolio.vercel.app/)
+- [Portfolio](https://v0-javier-llorente-porfolio.vercel.app/)
 
 ## Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/javier-llorente-/)
