@@ -6,15 +6,6 @@ Construyo prototipos funcionales combinando criterio de producto, resolución de
 
 ---
 
-## En qué estoy trabajando
-
-- Prototipos de producto con IA
-- Discovery y resolución de problemas
-- Productos SaaS, fintech y flujos operativos
-- Conversión de ideas en demos funcionales
-
----
-
 ## Proyecto destacado
 
 ### QUIPU
