@@ -23,20 +23,20 @@ El proyecto incluye dashboard financiero, módulos operativos, base de datos rea
 
 ---
 
-## Sobre mí
-
-Tengo experiencia en entornos de producto, delivery y operaciones. Me interesa trabajar en problemas donde se combinen criterio de negocio, priorización, tecnología e IA aplicada.
-
-Mi foco está en convertir ideas en soluciones tangibles: entender el problema, ordenar la propuesta, construir una demo funcional y comunicar el valor del producto.
-
----
-
 ## Stack y herramientas
 
 - **Producto:** discovery, priorización, definición de problemas, prototipado y documentación.
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui.
 - **Datos e IA:** SQL, Neon, OpenAI API.
 - **Workflow:** GitHub, Vercel, Cursor, ChatGPT.
+
+---
+
+## Sobre mí
+
+Tengo experiencia en entornos de producto, delivery y operaciones. Me interesa trabajar en problemas donde se combinen criterio de negocio, priorización, tecnología e IA aplicada.
+
+Mi foco está en convertir ideas en soluciones tangibles: entender el problema, ordenar la propuesta, construir una demo funcional y comunicar el valor del producto.
 
 ---
 
