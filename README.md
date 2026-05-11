@@ -12,6 +12,10 @@ Construyo prototipos funcionales combinando criterio de producto, resolución de
 
 SaaS fintech con IA para PyMEs de LatAm, pensado para centralizar caja, cobros, pagos, tesorería, reportes y análisis financiero en una sola plataforma.
 
+
+<img width="1366" height="613" alt="image" src="https://github.com/user-attachments/assets/cdcdb1e4-9883-4f8f-816d-7e97d4d7bfad" />
+
+
 El proyecto incluye dashboard financiero, módulos operativos, base de datos real alojada en Neon con información simulada para demo, y un copiloto IA conectado a datos del negocio.
 
 - **SaaS:** https://github.com/javierllorente-HWorld/quipu-saas-b2b-ai-fintech
@@ -24,6 +28,15 @@ El proyecto incluye dashboard financiero, módulos operativos, base de datos rea
 Tengo experiencia en entornos de producto, delivery y operaciones. Me interesa trabajar en problemas donde se combinen criterio de negocio, priorización, tecnología e IA aplicada.
 
 Mi foco está en convertir ideas en soluciones tangibles: entender el problema, ordenar la propuesta, construir una demo funcional y comunicar el valor del producto.
+
+---
+
+## Stack y herramientas
+
+- **Producto:** discovery, priorización, definición de problemas, prototipado y documentación.
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui.
+- **Datos e IA:** SQL, Neon, OpenAI API.
+- **Workflow:** GitHub, Vercel, Cursor, ChatGPT.
 
 ---
 
