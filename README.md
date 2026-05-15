@@ -13,7 +13,7 @@ Construyo prototipos funcionales combinando criterio de producto, resolución de
 SaaS fintech con IA para PyMEs de LatAm, pensado para centralizar caja, cobros, pagos, tesorería, reportes y análisis financiero en una sola plataforma.
 
 
-<img width="1366" height="613" alt="image" src="https://github.com/user-attachments/assets/cdcdb1e4-9883-4f8f-816d-7e97d4d7bfad" />
+<img width="1366" height="613" alt="image" src="https://github.com/user-attachments/assets/933d43ba-ff96-4397-a929-3f2167ddafbe" />
 
 
 El proyecto incluye dashboard financiero, módulos operativos, base de datos real alojada en Neon con información simulada para demo, y un copiloto IA conectado a datos del negocio.
