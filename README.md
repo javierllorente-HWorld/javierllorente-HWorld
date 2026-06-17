@@ -2,7 +2,7 @@
 
 **Product Manager + AI Builder**
 
-Construyo prototipos funcionales combinando criterio de producto, resolución de problemas, herramientas de IA y ejecución técnica.
+Construyo soluciones digitales con IA aplicada, combinando criterio de producto, resolución de problemas y ejecución técnica para mejorar procesos y generar impacto real en las personas.
 
 ---
 
