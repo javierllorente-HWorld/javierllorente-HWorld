@@ -34,9 +34,9 @@ La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis finan
 
 ## Sobre mí
 
-Tengo experiencia en entornos de producto, delivery y operaciones. Me interesa trabajar en problemas donde se combinen criterio de negocio, priorización, tecnología e IA aplicada.
+Tengo experiencia en producto, delivery y operaciones. Entiendo cómo funcionan los equipos digitales y cómo la IA puede potenciar sus procesos, decisiones y resultados.
 
-Mi foco está en convertir ideas en soluciones tangibles: entender el problema, ordenar la propuesta, construir una demo funcional y comunicar el valor del producto.
+Me interesa construir soluciones digitales con impacto real en personas y organizaciones, especialmente en áreas como educación, economía, salud y bienestar.
 
 ---
 
