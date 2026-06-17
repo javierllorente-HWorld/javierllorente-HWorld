@@ -23,12 +23,16 @@ La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis finan
 
 ---
 
-## Stack y herramientas
+## Stack y herramientas utilizadas en mis proyectos
 
-- **Producto:** discovery, priorización, definición de problemas, prototipado y documentación.
+- **Producto:** discovery, priorización, definición de problemas, análisis de procesos, documentación funcional y delivery.
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui.
-- **Datos e IA:** SQL, Neon, OpenAI API.
-- **Workflow:** GitHub, Vercel, Cursor, ChatGPT.
+- **Backend y datos:** FastAPI, SQL, PostgreSQL, Neon.
+- **IA aplicada:** OpenAI API, LangChain, RAG, agentes IA y automatización de workflows.
+- **Lenguajes y desarrollo:** TypeScript, Python aplicado a proyectos de IA, APIs y análisis de datos.
+- **Cloud y deployment:** Vercel, Render, AWS.
+- **Workflow:** GitHub, Cursor, ChatGPT.
+
 
 ---
 
