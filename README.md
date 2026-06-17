@@ -10,13 +10,13 @@ Construyo soluciones digitales con IA aplicada, combinando criterio de producto,
 
 ### QUIPU
 
-SaaS fintech con IA para PyMEs de LatAm, pensado para centralizar caja, cobros, pagos, tesorería, reportes y análisis financiero en una sola plataforma.
+SaaS fintech con IA para ayudar a PyMEs de LatAm a organizar sus finanzas, centralizar información clave y tomar mejores decisiones.
 
 
 <img width="1366" height="613" alt="image" src="https://github.com/user-attachments/assets/933d43ba-ff96-4397-a929-3f2167ddafbe" />
 
 
-El proyecto incluye dashboard financiero, módulos operativos, base de datos real alojada en Neon con información simulada para demo, y un copiloto IA conectado a datos del negocio.
+La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis financiero en un solo lugar, incorporando un copiloto IA conectado a datos del negocio para facilitar la lectura de la información y apoyar la toma de decisiones.
 
 - **SaaS:** https://github.com/javierllorente-HWorld/quipu-saas-b2b-ai-fintech
 - **Landing:** https://github.com/javierllorente-HWorld/quipu-landingpage
