@@ -23,6 +23,13 @@ La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis finan
 
 ---
 
+## Sobre mí
+
+Tengo experiencia en producto, delivery y operaciones. Entiendo cómo funcionan los equipos digitales y cómo la IA puede potenciar sus procesos, decisiones y resultados.
+
+Me interesa construir soluciones digitales con impacto real en personas y organizaciones, especialmente en áreas como educación, economía, salud y bienestar.
+
+---
 ## Stack y herramientas utilizadas en mis proyectos
 
 - **Producto:** discovery, priorización, definición de problemas, análisis de procesos, documentación funcional y delivery.
@@ -33,14 +40,6 @@ La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis finan
 - **Cloud y deployment:** Vercel, Render, AWS.
 - **Workflow:** GitHub, Cursor, ChatGPT.
 
-
----
-
-## Sobre mí
-
-Tengo experiencia en producto, delivery y operaciones. Entiendo cómo funcionan los equipos digitales y cómo la IA puede potenciar sus procesos, decisiones y resultados.
-
-Me interesa construir soluciones digitales con impacto real en personas y organizaciones, especialmente en áreas como educación, economía, salud y bienestar.
 
 ---
 
