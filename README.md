@@ -1,8 +1,6 @@
 # Hola, soy Javi 👋
-
-**Product Manager + AI Builder**
-
-Construyo soluciones digitales con IA aplicada, combinando criterio de producto, resolución de problemas y ejecución técnica para mejorar procesos y generar impacto real en las personas.
+**Product Manager | Producto digital e IA**
+Me muevo en la intersección entre negocio, UX y desarrollo: entiendo problemas, ordeno prioridades y llevo ideas a soluciones concretas con impacto real.
 
 ---
 
@@ -25,21 +23,15 @@ La plataforma reúne caja, cobros, pagos, tesorería, reportes y análisis finan
 
 ## Sobre mí
 
-Tengo experiencia en producto, delivery y operaciones. Entiendo cómo funcionan los equipos digitales y cómo la IA puede potenciar sus procesos, decisiones y resultados.
-
-Me interesa construir soluciones digitales con impacto real en personas y organizaciones, especialmente en áreas como educación, economía, salud y bienestar.
+Tengo experiencia en producto y operaciones en startups de LatAm y España. Me muevo bien entre negocio, UX y desarrollo: entiendo el problema, ordeno prioridades y llevo ideas a soluciones concretas.
+Hoy construyo portfolio propio explorando cómo la IA puede potenciar procesos de producto, toma de decisiones y ejecución.
 
 ---
-## Stack y herramientas utilizadas en mis proyectos
+## Cómo trabajo
 
-- **Producto:** discovery, priorización, definición de problemas, análisis de procesos, documentación funcional y delivery.
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui.
-- **Backend y datos:** FastAPI, SQL, PostgreSQL, Neon.
-- **IA aplicada:** OpenAI API, LangChain, RAG, agentes IA y automatización de workflows.
-- **Lenguajes y desarrollo:** TypeScript, Python aplicado a proyectos de IA, APIs y análisis de datos.
-- **Cloud y deployment:** Vercel, Render, AWS.
-- **Workflow:** GitHub, Cursor, ChatGPT.
-
+- **Producto:** discovery, priorización, backlog, user stories, métricas, roadmap.
+- **IA aplicada:** OpenAI API, Claude Code, GenAI para producto y toma de decisiones.
+- **Herramientas:** Jira, Figma, SQL, GitHub, Vercel.
 
 ---
 
